@@ -7,4 +7,9 @@ public class HistoryTeacher implements ITeacher {
         return "Learn about WW1";
     }
 
+    @Override
+    public String getWisdom() {
+        return null;
+    }
+
 }

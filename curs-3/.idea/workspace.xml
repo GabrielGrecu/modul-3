@@ -2,43 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f00b68b2-d416-4baa-922a-8e8c409f64cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/homework/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/homework/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/homework/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/homework/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/homework/MyContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/homework/MyFirstSpringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withPropertie/HistoryTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withPropertie/ITeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withPropertie/JavaTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withPropertie/MathTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withPropertie/MyFirstSpringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withPropertie/TeacherFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HistoryTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/ITeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/JavaTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MathTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyFirstSpringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withoutXMLorProperties/HistoryTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withoutXMLorProperties/ITeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withoutXMLorProperties/JavaTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withoutXMLorProperties/MathTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withoutXMLorProperties/MyFirstSpringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withoutXMLorProperties/TeacherFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curs-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/curs-3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HomeworkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/WisdomWordsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/HistoryTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/HistoryTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/ITeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/ITeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/JavaTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/JavaTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MathTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MathTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyFirstSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyFirstSpringApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HistoryTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HistoryTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/ITeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/ITeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/JavaTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/JavaTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MathTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyFirstSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyFirstSpringApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +58,8 @@
     "last_opened_file_path": "C:/Users/Hp/Desktop/modul-3/curs-3/libs",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,7 +76,7 @@
       <recent name="com.devmind.springApp.withXML" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.devmind.springApp.homework.MyFirstSpringApp">
+  <component name="RunManager" selected="Application.com.devmind.springApp.withXML.MyFirstSpringApp">
     <configuration name="MyFirstSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devmind.springApp.MyFirstSpringApp" />
       <module name="curs-3" />
@@ -159,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.devmind.springApp.homework.MyFirstSpringApp" />
         <item itemvalue="Application.com.devmind.springApp.withXML.MyFirstSpringApp" />
+        <item itemvalue="Application.com.devmind.springApp.homework.MyFirstSpringApp" />
         <item itemvalue="Application.com.devmind.springApp.withPropertie.MyFirstSpringApp" />
         <item itemvalue="Application.com.devmind.springApp.withoutXMLorProperties.MyFirstSpringApp" />
         <item itemvalue="Application.MyFirstSpringApp" />
@@ -175,7 +160,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697836823691</updated>
-      <workItem from="1697836825201" duration="8275000" />
+      <workItem from="1697836825201" duration="8629000" />
+      <workItem from="1698972376513" duration="6609000" />
     </task>
     <servers />
   </component>

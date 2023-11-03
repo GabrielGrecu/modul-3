@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="
-        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+       http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
-      <bean id="mathTeacher"
+      <context:property-placeholder location="config.properties" />
+
+      <bean id="mathTeacherSecond"
             class="com.devmind.springApp.withoutXMLorProperties.MathTeacher">
       </bean>
 
@@ -26,5 +34,26 @@
 
       <bean id="mouse"
             class="com.devmind.springApp.homework.Mouse">
+      </bean>
+
+      <bean id="myWisdomService"
+            class="com.devmind.springApp.withXML.WisdomWordsService">
+      </bean>
+
+      <bean id="myHomework"
+            class="com.devmind.springApp.withXML.HomeworkService">
+      </bean>
+
+      <bean id="javaTeacherXML"
+            class="com.devmind.springApp.withXML.JavaTeacher">
+            <constructor-arg ref="myWisdomService"/>
+            <constructor-arg ref="myHomework"/>
+            <constructor-arg index="2" value="70"/>
+            <property name="age" value="${age}"/>
+      </bean>
+
+      <bean id="mathTeacher"
+            class="com.devmind.springApp.withXML.MathTeacher">
+            <property name="wisdomService" ref="myWisdomService"/>
       </bean>
 </beans>
