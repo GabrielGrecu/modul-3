@@ -1,0 +1,11 @@
+
+b
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Úùƒ8ßÿ¡€¼1
+r
+java:S1450"URemove the "random" field and declare it as a local variable in the relevant methods.(¬¯íô8õñóÿ»1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¡’“8õñóÿ»1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(Ñå±ıÿÿÿÿ8õñóÿ»1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(«øõ8¤—€€¼1
+X
+java:S2696!"6Make the enclosing method "static" or remove this set.(ï×¦«øÿÿÿÿ8Ü€¼1

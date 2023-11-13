@@ -1,0 +1,21 @@
+
+n
+java:S1104
+"SMake counter a static final constant or non-public and provide accessors if needed.(£èÆıÿÿÿÿ
+H
+java:S1444
+"-Make this "public static counter" field final(£èÆıÿÿÿÿ
+?
+java:S3010"$Remove this assignment of "counter".(Î‹âÛüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿¶áÚüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓšëÙ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ñÜ‘ú
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Î¥Â®ûÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+D
+java:S1144")Remove this unused private "init" method.(şñÊëÿÿÿÿÿ
+G
+java:S1144",Remove this unused private "destroy" method.(òêÍûÿÿÿÿ

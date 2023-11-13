@@ -13,21 +13,38 @@
        default-destroy-method="destroy"
 >
 
-    <bean id="school"
-          class="School"
-          scope="singleton"
-          lazy-init="true">
-                    <constructor-arg index="0" value="DEVMIND"/>
-                    <constructor-arg index="1" ref="address"/>
-    </bean>
+    <aop:aspectj-autoproxy></aop:aspectj-autoproxy>
 
-    <bean id="teacher" class="Teacher" scope="prototype">
-        <property name="name" value="Gabi"/>
-        <property name="school" value="school"/>
-    </bean>
+    <context:component-scan base-package="com.devmind.course5" />
 
-    <bean id="address" class="Address" scope="prototype">
+<!--    <bean id="school"-->
+<!--          class="com.devmind.course5.School"-->
+<!--          scope="singleton"-->
+<!--          lazy-init="true">-->
+<!--                    <constructor-arg index="0" value="DEVMIND"/>-->
+<!--                    <constructor-arg index="1" ref="address"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="teacher" class="com.devmind.course5.Teacher" scope="prototype">-->
+<!--        <property name="name" value="Gabi"/>-->
+<!--        <property name="school" value="school"/>-->
+<!--    </bean>-->
+
+    <bean id="address" class="com.devmind.course5.Address" scope="prototype">
         <property name="streetName" value="Iuliu Maniu"/>
     </bean>
+
+    <bean id="task"
+          class="com.devmind.course5.Task"
+          scope="prototype"
+          destroy-method="destroy">
+    </bean>
+
+    <bean id="taskAspect"
+          class="com.devmind.course5.TaskAspect"></bean>
+
+    <aop:config>
+        <aop:aspect id="aspect" ref="taskAspect"/>
+    </aop:config>
 
 </beans>

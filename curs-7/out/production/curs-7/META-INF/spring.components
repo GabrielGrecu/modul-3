@@ -1,0 +1,3 @@
+com.devmind.myspringapp.FrameworkKnowledge=org.springframework.stereotype.Component
+com.devmind.myspringapp.TipsAndTricksService=org.springframework.stereotype.Component
+com.devmind.myspringapp.WebDevTeacher=org.springframework.stereotype.Component

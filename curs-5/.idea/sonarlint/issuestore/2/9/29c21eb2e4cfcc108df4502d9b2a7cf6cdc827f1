@@ -1,0 +1,6 @@
+
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78Ú¶µ€¼1
+R
+java:S2209"5Change this instance-reference to a static reference.(³›×‰8ê¶µ€¼1
+]	java:S125"<This block of commented-out lines of code should be removed.(ý”±Œøÿÿÿÿ8…³³€¼1

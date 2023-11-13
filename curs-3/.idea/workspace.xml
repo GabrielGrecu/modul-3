@@ -2,27 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f00b68b2-d416-4baa-922a-8e8c409f64cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HomeworkService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/WisdomWordsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curs-5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/Antet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/TaskAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-2/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/HistoryTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/HistoryTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/ITeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/ITeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/JavaTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/JavaTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MathTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MathTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyContainer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyFirstSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curs-3/com/devmind/springApp/withXML/MyFirstSpringApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HistoryTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/HistoryTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/ITeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/ITeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/JavaTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/JavaTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MathTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyFirstSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/devmind/springApp/withXML/MyFirstSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/out/production/curs-5/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/out/production/curs-5/MySpringApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/out/production/curs-5/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/out/production/curs-5/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/out/production/curs-5/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/out/production/curs-5/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/src/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/src/MySpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/MySpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/src/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curs-5/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curs-5/src/com/devmind/course5/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,24 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Hp/Desktop/modul-3/curs-3/libs",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/Desktop/modul-3/curs-3/libs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d41d8cd98f00b204e9800998ecf8427e&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\Desktop\modul-3\curs-3\resources" />
       <recent name="C:\Users\Hp\Desktop\modul-3\curs-3" />
       <recent name="C:\Users\Hp\Desktop\modul-3\curs-3\src" />
-      <recent name="C:\Users\Hp\Desktop\modul-3\curs-3\resources" />
       <recent name="C:\Users\Hp\Desktop\modul-3\curs-3\src\com\devmind\springApp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -161,7 +163,9 @@
       <option name="presentableId" value="Default" />
       <updated>1697836823691</updated>
       <workItem from="1697836825201" duration="8629000" />
-      <workItem from="1698972376513" duration="6609000" />
+      <workItem from="1698972376513" duration="7710000" />
+      <workItem from="1699276755766" duration="1414000" />
+      <workItem from="1699734642684" duration="15000" />
     </task>
     <servers />
   </component>
